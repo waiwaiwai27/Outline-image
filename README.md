@@ -28,7 +28,8 @@ The application provides a side-by-side comparison slider, adjustable parameters
 
 ## Screenshots
 
-![screenshot](../../image/screenshot.png)
+![screenshot](blob/main/image/Screenshot.png)
+
 ---
 
 ## Requirements
