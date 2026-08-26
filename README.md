@@ -28,8 +28,7 @@ The application provides a side-by-side comparison slider, adjustable parameters
 
 ## Screenshots
 
-![alt text](https://github.com/waiwaiwai27/Outline-image/image/Screenshot.png?raw=true)
-![screenshot](image/screenshot.png)
+![screenshot](../../image/screenshot.png)
 ---
 
 ## Requirements
