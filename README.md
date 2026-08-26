@@ -27,9 +27,7 @@ The application provides a side-by-side comparison slider, adjustable parameters
 ---
 
 ## Screenshots
-
-*(Add your screenshots here later)*
-
+![alt text](https://github.com/waiwaiwai27/Outline-image/image/Screenshot 2026-08-26 100803.png?raw=true)
 ---
 
 ## Requirements
